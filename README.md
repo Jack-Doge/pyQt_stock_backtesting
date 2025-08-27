@@ -2,8 +2,7 @@
 
 這是一款使用 Python 語言開發的桌面應用程式，專為台灣股市設計，提供一個圖形化的介面，讓使用者能夠方便快速地回測各種量化交易策略。
 
-![App Screenshot](placeholder.png)
-*(請替換此處的 `placeholder.png` 為您的應用程式截圖)*
+<img src="icon/icon.png" alt="Logo" width="300"/>
 
 ---
 
