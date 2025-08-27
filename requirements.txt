@@ -1,0 +1,5 @@
+PyQt5
+yfinance
+mplfinance
+talib-binary
+pandas
